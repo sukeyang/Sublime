@@ -10,7 +10,6 @@
 		"BracketHighlighter",
 		"Emmet",
 		"Git",
-		"HTML-CSS-JS Prettify",
 		"JsFormat",
 		"Markdown Extended",
 		"Markdown Preview",
@@ -20,6 +19,7 @@
 		"ReactJS Snippets",
 		"SFTP",
 		"SublimeLinter",
+		"SublimeLinter-jsxhint",
 		"Terminal",
 		"Vue Syntax Highlight"
 	]
